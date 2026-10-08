@@ -81,7 +81,7 @@ genai.configure(api_key=API_KEY)
 
 @st.cache_resource
 def get_model():
-    return genai.GenerativeModel("gemini-1.5-flash")
+    return genai.GenerativeModel("gemini-2.0-flash")
 
 model = get_model()
 
