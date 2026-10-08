@@ -67,4 +67,4 @@ This project is a multi-tool AI Productivity Assistant built for the AI Skill Ac
 5. Deploy and share the live URL with your lecturer
 
 ## Author
-[Your Name] – [Your Student Number]
+Mahlori Makwakwa
